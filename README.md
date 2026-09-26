@@ -64,4 +64,4 @@ super-store-sales-dashboard/
 │   └── Super_Store_Sales_Data.xlsx
 │
 └── images/
-    └── Super_Store_Sales_Dashboard.png
+    └── Super_Store_Sales_Dashboard.jpg
