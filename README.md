@@ -4,7 +4,7 @@ This project presents an interactive Super Store Sales Dashboard created using M
 The dashboard provides a visual overview of sales performance, transactions, quantity ordered, shipping modes, regional performance, customer segments, product categories, cities, and monthly trends.
 The objective of this project is to transform raw sales data into meaningful business insights using Excel dashboards, charts, KPIs, and interactive filters.
 ## 🖼️ Dashboard Preview
-![Super Store Sales Dashboard](images/Super_Store_Sales_Dashboard.jpg)
+![Super Store Sales Dashboard](Sales%20Dashboard%20Image.jpg)
 ## 📊 Key Performance Indicators
 | KPI | Value |
 |---|---:|
