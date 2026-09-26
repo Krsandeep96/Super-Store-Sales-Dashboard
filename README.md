@@ -49,6 +49,8 @@ The dashboard can help analyze:
 - Shipping modes
 - Monthly quantity trends
 - City-level sales performance
+## Author 
+- Sandeep Kumar singh
 ## 📂 Project Structure
 ```text
 super-store-sales-dashboard/
